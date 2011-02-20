@@ -1,4 +1,4 @@
-{application, mochijson2,
+{application, mochijson,
  [
   {description, ""},
   {vsn, "0.1"},
